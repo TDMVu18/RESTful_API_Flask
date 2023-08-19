@@ -5,3 +5,11 @@
 </p>
 
 # Tóm tắt các bước set-up project
+
+Đầu tiên là cài đặt, các bước cài đặt thông thường như với bất cứ một package python nào:
+
+1. Tạo virtual enviroment:
+```
+virtualenv venv
+
+```
