@@ -11,5 +11,4 @@
 1. Tạo virtual enviroment:
 ```
 virtualenv venv
-
 ```
